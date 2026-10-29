@@ -1,0 +1,4 @@
+Library system can be managed
+through different methods:
+Website and app.
+Make sure that the Management system is upto date.
