@@ -1,4 +1,5 @@
 Library system can be managed
 through different methods:
 Website and app.
-The ticket system should be the topmost priority.
+This is a merge test.
+Make sure that the stock is updated regularly and please make sure that latest books are stocked up.
