@@ -2,3 +2,5 @@ Library system can be managed
 through different methods:
 Website and app.
 Make sure the system is functional and upto mark, maintain the tickets.
+This is a merge test.
+Make sure that the stock is updated regularly and please make sure that latest books are stocked up.
