@@ -1,4 +1,8 @@
 Library system can be managed
 through different methods:
 Website and app.
+<<<<<<< HEAD
 Make sure that the staff and everyone know about this management system properly.
+=======
+Make sure that the stock is updated regularly and please make sure that latest books are stocked up.
+>>>>>>> librarian
