@@ -1,4 +1,4 @@
 Library system can be managed
 through different methods:
 Website and app.
-Make sure the system is functional and upto mark, maintain the tickets.s
+Make sure the system is functional and upto mark, maintain the tickets.
